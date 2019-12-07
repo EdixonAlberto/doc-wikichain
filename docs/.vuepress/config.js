@@ -8,7 +8,7 @@ module.exports = {
     // ['link', { rel: 'icon', href: '/favicon.ico' }]
   ],
   themeConfig: {
-    search: false,
+    search: true,
     // logo: '/img/image.png',
     nav: [
       { text: 'Acerca', link: '/about' },
@@ -19,7 +19,8 @@ module.exports = {
         collapsable: false,
         children: [
           '/',
-          '/blockchain'
+          '/blockchain',
+          '/smart-contracts'
         ]
       }
     ],
