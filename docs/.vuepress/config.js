@@ -1,3 +1,7 @@
+const folders = {
+  cryptos: 'cryptocurrencies'
+}
+
 module.exports = {
   base: "/doc-wikichain/",
   title: 'Wikichain',
@@ -20,7 +24,17 @@ module.exports = {
         children: [
           '/',
           '/blockchain',
-          '/smart-contracts'
+          '/smart-contracts',
+          // '/makerDao',
+          // '/ethereum',
+          // '/ether'
+        ]
+      },
+      {
+        title: 'Criptomonedas',
+        collapsable: false,
+        children: [
+          `/${folders.cryptos}/dai`
         ]
       }
     ],
