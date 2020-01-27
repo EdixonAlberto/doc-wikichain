@@ -15,7 +15,7 @@ module.exports = {
     search: true,
     // logo: '/img/image.png',
     nav: [
-      { text: 'Acerca', link: '/about' },
+      { text: 'Acerca', link: '/aboutme' },
     ],
     sidebar: [
       {
@@ -25,6 +25,7 @@ module.exports = {
           '/',
           '/blockchain',
           '/smart-contracts',
+          '/halving',
           // '/makerDao',
           // '/ethereum',
           // '/ether'
