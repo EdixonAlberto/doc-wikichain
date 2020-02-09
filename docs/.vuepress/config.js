@@ -26,6 +26,7 @@ module.exports = {
           '/blockchain',
           '/smart-contracts',
           '/halving',
+          '/testnet'
           // '/makerDao',
           // '/ethereum',
           // '/ether'
