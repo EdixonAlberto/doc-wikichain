@@ -1,5 +1,5 @@
 const folders = {
-  cryptos: 'cryptocurrencies'
+  cryptos: 'criptomonedas'
 }
 
 module.exports = {
@@ -34,7 +34,7 @@ module.exports = {
       },
       {
         title: 'Criptomonedas',
-        collapsable: false,
+        collapsable: true,
         children: [
           `/${folders.cryptos}/dai`
         ]
