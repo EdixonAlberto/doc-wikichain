@@ -1,2 +1,7 @@
-/node_modules
-/docs/.vuepress/dist
+# Folders
+.vscode/
+node_modules/
+dist/
+
+# FIles
+*.txt

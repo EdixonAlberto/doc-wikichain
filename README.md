@@ -1,13 +1,13 @@
 # Doc Wikichain
 
-[![Linkedin: https://linkedin.com/in/edixonalberto](https://img.shields.io/badge/author-EdixonAlberto-purple.svg)](https://linkedin.com/in/edixonalberto)
-[![MIT license](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE.md)
+[![](https://img.shields.io/badge/author-Edixon_Piña-blue.svg?&style=flat-square)](https://www.edixonalberto.com)
+[![](https://img.shields.io/github/license/edixonalberto/doc-wikichain?style=flat-square)](./LICENSE)
+[![](https://api.netlify.com/api/v1/badges/7c0f8347-1ab2-44a5-a05e-ac51e7378f62/deploy-status)](https://app.netlify.com/sites/wikichain/deploys)
 
-Una enciclopedia en **español** especializada en **blockchain**
+Una **enciclopedia en español** dedicada al mundo de las **criptomonedas** y del
+**blockchain**
 
-<!-- ### Screens -->
-<!-- ![image](./files/image.png) -->
-
+## Contribuir
 
 Nuevos PRs hacia el branch -> `dev`
 
@@ -16,7 +16,6 @@ Nuevos PRs hacia el branch -> `dev`
 Brindame un Café ☕️
 
 ```
-ETH 0x0d80d54c50146824c7ce932b0f7ae2f4193e661d
-BTC 3LzbdD61DLLpv2sjvZqsUaX1CqtDVRrpTw
-LTC M9JyYyoNvUTNaXGoaxFH1sPjdQBjLtDxkr
+BTC 13SZoSRr2QT89f9ezpvVnf3G7vW4j8kjcK
+ETH 0xb963aeff0fde4de6ee413bb68aedb33800acb1a0
 ```
