@@ -1,7 +1,17 @@
 {
   "name": "doc-wikichain",
   "version": "1.0.0",
-  "description": "Una enciclopedia en español dedicada al mundo de las criptomonedas y del blockchain",
+  "description": "Una enciclopedia en español dedicada al mundo de las criptomonedas y el blockchain",
+  "keywords": [
+    "bitcoin",
+    "blockchain",
+    "encyclopedia",
+    "vuejs",
+    "vuepress",
+    "stylus",
+    "markdown",
+    "cryptocurrency"
+  ],
   "author": {
     "name": "Edixon Piña",
     "email": "edixonalbertto@gmail.com",
@@ -16,6 +26,7 @@
   },
   "dependencies": {},
   "devDependencies": {
+    "prettier": "^2.2.1",
     "vuepress": "^1.7.1"
   },
   "engines": {
