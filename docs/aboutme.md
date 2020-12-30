@@ -1,3 +1,0 @@
-# Acerca de Mi
-
-Próximamente... 🙂
